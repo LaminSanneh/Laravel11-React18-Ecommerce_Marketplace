@@ -1,0 +1,12 @@
+.BarChart-container {
+    width: 100%;
+    /* max-width: 800px; /* Optional: Set max-width for the chart */
+    margin: 0 auto;   /* Optional: Center align the chart */
+  }
+
+  .LineChart-container {
+    height: 400px;
+  }
+  .TopologyMap-container {
+    height: 600px;
+  }
